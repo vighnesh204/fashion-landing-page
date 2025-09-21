@@ -47,5 +47,3 @@ Note: This project is created for educational purposes only to demonstrate web d
 - Cross-browser compatibility
 
 ---
-
-**Live Demo**: []
